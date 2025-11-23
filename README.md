@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm <strong>Huzaifa Azhar Tarar</strong></h1>
+<h1 align="center">Hi, I'm <strong>Huzaifa Azhar Tarar</strong></h1>
 <h3 align="center">Full Stack Engineer | MERN | Next.js | AI Integrations</h3>
 
 ---
 
-# 💫 About Me
+#  About Me
 
-🔧 I am a Full-Stack Developer with **5+ years of experience**, specializing in the **MERN stack and Next.js**. I build scalable, secure, and production-ready applications with expertise in:
+ I am a Full-Stack Developer with **5+ years of experience**, specializing in the **MERN stack and Next.js**. I build scalable, secure, and production-ready applications with expertise in:
 
 - Real-time systems  
 - Clean architecture  
@@ -13,10 +13,10 @@
 - AI/LLM-powered enhancements  
 - High-performance APIs and full deployment pipelines  
 
-🌍 I have successfully delivered solutions for **150+ clients** across:  
+ I have successfully delivered solutions for **150+ clients** across:  
 **USA, UK, Belgium, Singapore, China, and Australia**, partnering with startups and global teams.
 
-🚀 My work covers the **entire lifecycle** of modern applications:
+ My work covers the **entire lifecycle** of modern applications:
 
 - Architecture design  
 - Frontend & backend development  
@@ -28,20 +28,20 @@
 
 I not only build systems, I **deploy, maintain, and continuously improve them** for long-term stability and scalability.
 
-🤝 I collaborate on SaaS platforms, enterprise dashboards, marketplace systems, and startup-ready MVPs that require strong engineering foundations.
+ I collaborate on SaaS platforms, enterprise dashboards, marketplace systems, and startup-ready MVPs that require strong engineering foundations.
 
 💬 **Core competencies:**  
 MERN, Next.js 14+, Node.js, AI/LLM integrations, REST/GraphQL, Socket.io, Authentication/Authorization, Microservices, CI/CD, System Design, DevOps, AWS, Vercel, Docker.
 
-🎯 My priority: **Clean code, scalable systems, long-term reliability**, from first commit to deployment & continuous evolution.
+ My priority: **Clean code, scalable systems, long-term reliability**, from first commit to deployment & continuous evolution.
 
 > ⚠️ Most of my repositories are private due to client confidentiality.
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
-## ⚡ Backend, APIs & Realtime
+##  Backend, APIs & Realtime
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50"/>
@@ -54,7 +54,7 @@ MERN, Next.js 14+, Node.js, AI/LLM integrations, REST/GraphQL, Socket.io, Authen
 
 ---
 
-## ⚛️ Frontend Ecosystem
+##  Frontend Ecosystem
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/>
@@ -67,7 +67,7 @@ MERN, Next.js 14+, Node.js, AI/LLM integrations, REST/GraphQL, Socket.io, Authen
 
 ---
 
-## 📦 Package Managers / Tooling
+##  Package Managers / Tooling
 <p>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/yarn/yarn-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50"/>
@@ -76,7 +76,7 @@ MERN, Next.js 14+, Node.js, AI/LLM integrations, REST/GraphQL, Socket.io, Authen
 
 ---
 
-## 🧠 AI, ML & Data Science
+##  AI, ML & Data Science
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
@@ -87,7 +87,7 @@ MERN, Next.js 14+, Node.js, AI/LLM integrations, REST/GraphQL, Socket.io, Authen
 
 ---
 
-## 🗄️ Databases
+##  Databases
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
@@ -99,7 +99,7 @@ MERN, Next.js 14+, Node.js, AI/LLM integrations, REST/GraphQL, Socket.io, Authen
 
 ---
 
-## ☁️ Cloud, DevOps & Servers
+##  Cloud, DevOps & Servers
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55"/>
@@ -115,7 +115,7 @@ MERN, Next.js 14+, Node.js, AI/LLM integrations, REST/GraphQL, Socket.io, Authen
 
 ---
 
-## 🧪 Testing / Monitoring
+##  Testing / Monitoring
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50"/>
@@ -124,7 +124,7 @@ MERN, Next.js 14+, Node.js, AI/LLM integrations, REST/GraphQL, Socket.io, Authen
 
 ---
 
-## 📐 UI/UX & Design
+##  UI/UX & Design
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="50"/>
@@ -133,7 +133,7 @@ MERN, Next.js 14+, Node.js, AI/LLM integrations, REST/GraphQL, Socket.io, Authen
 
 ---
 
-## 💼 Additional Languages & Frameworks
+##  Additional Languages & Frameworks
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
@@ -150,7 +150,7 @@ MERN, Next.js 14+, Node.js, AI/LLM integrations, REST/GraphQL, Socket.io, Authen
 ---
 
 
-# 🤝 Connect With Me
+#  Connect With Me
 
 <p>
 
@@ -163,13 +163,13 @@ MERN, Next.js 14+, Node.js, AI/LLM integrations, REST/GraphQL, Socket.io, Authen
 
 ---
 
-### 📂 Portfolio  
+###  Portfolio  
 **https://huzaifaazhar.framer.website**
 
-### ⭐ Client Reviews  
+###  Client Reviews  
 **https://insolvo.com/portfolio/LVrtKw**
 
-### 📧 Email  
+###  Email  
 **huzaifaazhar21@gmail.com**
 
 ---
