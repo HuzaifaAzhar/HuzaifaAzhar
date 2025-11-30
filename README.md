@@ -5,7 +5,7 @@
 
 #  About Me
 
- I am a Full-Stack Developer with **5+ years of experience**, specializing in the **MERN stack and Next.js**. I build scalable, secure, and production-ready applications with expertise in:
+ I am a Full-Stack Developer with **4+ years of experience**, specializing in the **MERN stack and Next.js**. I build scalable, secure, and production-ready applications with expertise in:
 
 - Real-time systems  
 - Clean architecture  
